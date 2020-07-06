@@ -1,0 +1,9 @@
+{
+  "extends": "eslint-config-rallycoding",
+  "rules": {
+    "max-len": "off",
+    "one-var-declaration-per-line": "off",
+    "one-var": "off",
+    "camelcase": "off"
+  }
+}
